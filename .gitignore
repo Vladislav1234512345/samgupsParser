@@ -1,2 +1,9 @@
+# Папки
 *venv/
 *idea/
+__pycache__/
+
+# Файлы
+*.csv
+*.xslx
+.env
